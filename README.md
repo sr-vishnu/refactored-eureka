@@ -3,7 +3,7 @@
 
 Steps to run
 ```
-git clone git@github.com:sr-vishnu/refactored-eureka.git
+https://github.com/sr-vishnu/refactored-eureka.git
 mkdir $HOME/{input,output}
 cp refactored-eureka/input.txt $HOME/input
 cd refactored-eureka/build_spark_app
